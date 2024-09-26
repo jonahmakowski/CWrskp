@@ -1,0 +1,3 @@
+/Users/jonahmakowski/Desktop/GitHub/CWrskp/src/cmake-build-debug/CMakeFiles/CWrskp.dir
+/Users/jonahmakowski/Desktop/GitHub/CWrskp/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jonahmakowski/Desktop/GitHub/CWrskp/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
